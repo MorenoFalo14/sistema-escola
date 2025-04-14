@@ -1,5 +1,5 @@
 <?php
-include 'C:\xampp\htdocs\app\db.php';
+include 'C:\xampp\htdocs\app\sistema-escola\db.php';
 
 $id_aluno = $_POST['escolha_aluno'];
 $nota = $_POST['nota'];
