@@ -36,7 +36,7 @@
 		<tbody>
 			<?php
 
-				include 'C:\xampp\htdocs\app\db.php';
+				include 'C:\xampp\htdocs\app\sistema-escola\db.php';
 
 					while ($linha = mysqli_fetch_array($consulta_nota)){
 						if ($linha['id_curso'] == $curso_escolhido){
