@@ -1,8 +1,8 @@
 <?php
 
 $servidor = "localhost";
-$usuario = "app";
-$senha = "Admin123";
+$usuario = "root";
+$senha = "";
 $db = "escola";
 
 $conexao = mysqli_connect($servidor, $usuario, $senha, $db);
