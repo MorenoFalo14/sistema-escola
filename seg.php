@@ -5,5 +5,5 @@
 </div>
 
 <div id="centerimage">
-	<img src="imgs/golf.png">
+	<img src="imgs/IMTSB_Logo.png">
 </div>
